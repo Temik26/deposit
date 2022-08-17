@@ -19,4 +19,3 @@ docker exec deposit python manage.py migrate
 ```
 docker exec deposit python manage.py test deposit_account
 ```
-## Отчет о покрытии кода тестами находится в htmlcov/index.html
